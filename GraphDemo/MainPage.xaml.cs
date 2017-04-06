@@ -48,6 +48,7 @@ namespace GraphDemo
             greenValue = (byte)rand.Next(0xFF);
             blueValue = (byte)rand.Next(0xFF);
 
+
             // Start a timer
             Stopwatch watch = Stopwatch.StartNew();
 
